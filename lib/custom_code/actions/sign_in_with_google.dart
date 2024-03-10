@@ -12,8 +12,7 @@ import 'package:google_sign_in/google_sign_in.dart';
 Future<String?> signInWithGoogle() async {
   try {
     final GoogleSignIn googleSignIn = GoogleSignIn(
-        clientId:
-            "51724384807-gemap1ghq9qihefdt9li3p7rlqigo2it.apps.googleusercontent.com",
+        clientId:"",
         scopes: <String>[
           "https://www.googleapis.com/auth/calendar",
           "https://www.googleapis.com/auth/calendar.events"
