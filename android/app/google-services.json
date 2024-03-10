@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51724384807",
+    "project_id": "cm3070-v2",
+    "storage_bucket": "cm3070-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51724384807:android:32b5e8e07b88678bb4ac02",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51724384807-gemap1ghq9qihefdt9li3p7rlqigo2it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnUuDFgotkTN5XASZtcRInvCVgx53LLxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51724384807-gemap1ghq9qihefdt9li3p7rlqigo2it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
